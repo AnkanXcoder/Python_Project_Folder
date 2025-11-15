@@ -36,4 +36,8 @@ Make sure Python is installed on your system.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📘 Purpose of This Repo
 
-This is your personal Python playground. It helps you keep all projects organized, track progress and revisit or upgrade scripts whenever you want.
+A central hub for Python projects, designed to showcase experiments, tools and learning progress in an organized way.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Author:**
+Created and maintained by Ankan Sen.
